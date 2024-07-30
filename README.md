@@ -16,4 +16,3 @@ Removes margins/gutters around sprites in a sprite sheet and outputs the newly t
 1. Install dependencies: `pipenv install --dev`
 1. Activate virtualenv: `pipenv shell`
 1. "Install" the cli, `pip install -e .`
-1. Use the command `thanx-ops-cli --help`
